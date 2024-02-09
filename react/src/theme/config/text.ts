@@ -1,0 +1,26 @@
+export const text = {
+  h1: `font-size: 36px; line-height: 46px; font-weight: 500;`,
+  h2: `font-size: 32px; line-height: 42px; font-weight: 500;`,
+  h3: `font-size: 28px; line-height: 38px; font-weight: 500;`,
+  h4: `font-size: 24px; line-height: 34px; font-weight: 500;`,
+  h5: `font-size: 20px; line-height: 30px; font-weight: 500;`,
+  h6: `font-size: 18px; line-height: 28px; font-weight: 500;`,
+  h7: `font-size: 16px; line-height: 26px; font-weight: 500;`,
+  h8: `font-size: 15px; line-height: 25px; font-weight: 500;`,
+  h9: `font-size: 14px; line-height: 24px; font-weight: 500;`,
+  h10: `font-size: 12px; line-height: 20px; font-weight: 500;`,
+  h11: `font-size: 10px; line-height: 16px; font-weight: 500;`,
+
+  h1regular: `font-size: 36px; line-height: 46px; font-weight: 400;`,
+  h2regular: `font-size: 32px; line-height: 42px; font-weight: 400;`,
+
+  p3: `font-size: 28px; line-height: 38px; font-weight: 400;`,
+  p4: `font-size: 24px; line-height: 34px; font-weight: 400;`,
+  p5: `font-size: 20px; line-height: 30px; font-weight: 400;`,
+  p6: `font-size: 18px; line-height: 28px; font-weight: 400;`,
+  p7: `font-size: 16px; line-height: 26px; font-weight: 400;`,
+  p8: `font-size: 15px; line-height: 25px; font-weight: 400;`,
+  p9: `font-size: 14px; line-height: 24px; font-weight: 400;`,
+  p10: `font-size: 12px; line-height: 20px; font-weight: 400;`,
+  p11: `font-size: 10px; line-height: 16px; font-weight: 400;`,
+} as const;
